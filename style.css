@@ -1,0 +1,40 @@
+.Header {
+    background-color:lightgreen;
+    height:100px;
+    font-size:50px;
+    padding-left:590px;
+    padding-top:80px; 
+}
+
+.Menu {
+     background-color:lightblue;
+     border:2px solid blue;
+     height:70px;
+     font-size:30px;
+     padding-left:610px;
+     padding-top: 50px ;
+}
+
+.side {
+    background-color:red;
+    display: inline-block;
+    height:300px;
+    font-size: 100px;
+    width: 25% ;
+    padding-top:100px;
+}
+
+.Content{
+    background-color: aqua;
+    display: inline-block;
+    width:74%;
+    font-size:100px;
+    height:300px;
+    padding-top:100px;
+}
+
+.footer{
+    background-color: blueviolet;
+    font-size:50px;
+    padding-left:600px;
+}
